@@ -1,4 +1,4 @@
-package com.summer.algorithms.algorithms;
+package com.summer.algorithms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.summer.algorithms.algorithms;
+package com.summer.algorithms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
