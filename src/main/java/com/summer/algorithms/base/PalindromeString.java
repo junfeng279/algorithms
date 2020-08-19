@@ -14,6 +14,8 @@ public class PalindromeString {
         System.out.println(isPalindrome1(str, str.length()));
     }
 
+
+
     /**
      * 方法 1
      * 同时从字符串头尾开始向中间扫描字串，如果所有字符都一样，那么这个字串就是一个回文。
